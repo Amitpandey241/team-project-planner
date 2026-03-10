@@ -1,0 +1,5 @@
+USERS_DB = "db/users.json"
+TEAMS_DB = "db/teams.json"
+BOARDS_DB = "db/boards.json"
+TASKS_DB = "db/tasks.json"
+OUT_DIR = "out/"
